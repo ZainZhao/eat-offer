@@ -13,12 +13,8 @@
 
 
 
-
-
-
-
 | 机器学习面经                                                 | 进度  |
 | ------------------------------------------------------------ | ----- |
-| [KNN](https://github.com/ZainZhao/Data-Science-Interview/blob/master/machine%20learning/KNN-Interview.md) | ★★★★☆ |
-| [Naive Bayesian](https://github.com/ZainZhao/Data-Science-Interview/blob/master/machine%20learning/Naive%20Bayesian-Interview.md) | ★★★★☆ |
-| [Decision Tree](https://github.com/ZainZhao/Data-Science-Interview/blob/master/machine%20learning/Decision%20Tree-Interview.md) | ★★★☆☆ |
+| [KNN](https://github.com/ZainZhao/eat-rec/blob/master/machine%20learning/KNN-Interview.md) | ★★★★☆ |
+| [Naive Bayesian](https://github.com/ZainZhao/eat-rec/blob/master/machine%20learning/Naive%20Bayesian-Interview.md) | ★★★★☆ |
+| [Decision Tree](https://github.com/ZainZhao/eat-rec/blob/master/machine%20learning/Decision%20Tree-Interview.md) | ★★★☆☆ |
