@@ -19,6 +19,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------ | ----- |
 | [Cross-Domain Recommendation: An Embedding and Mapping Approach](https://github.com/ZainZhao/eat-rec/blob/master/rec/paper/guide/Cross-Domain%20Recommendation%2C%20An%20Embedding%20and%20Mapping%20Approach%20.md) | 非常基础的使用MLP进行跨域的基础文章                          | IJCAI,2017               | ★★★☆☆ |
 | [跨领域推荐技术综述](https://github.com/ZainZhao/eat-rec/blob/master/rec/paper/guide/%E8%B7%A8%E9%A2%86%E5%9F%9F%E6%8E%A8%E8%8D%90%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0.md) | 前面总结部分还行，后面算法部分的差异对比，个人感觉写的不太清晰 | 华东师范大学学报,2017.09 | ★★☆☆☆ |
+| Deep Adversarial Social Recommendation                       | 这篇文章可以跟跨域推荐很想，我个人觉得社交推荐其实可以理解为跨域推荐的一种，文中使用 GAN 来加强两个域的表征，并提出一种cycle的方式来增强迁移特征，非常巧妙 | IJCAI,2019               | ★★★★☆ |
 
 
 
