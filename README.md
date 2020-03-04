@@ -1,7 +1,7 @@
 # eat-rec
-个人笔记
+个人笔记 + 面经
 
-数据科学（推荐系统、机器学习、数据挖掘、并行计算）
+数据科学（推荐系统、机器学习、深度学习、并行计算、数据挖掘）
 
 **Github 上不能正常显示 LaTex ，推荐 clone 到本地，使用 Typora 并开启LaTex进行阅读**
 
@@ -21,6 +21,7 @@
 | [跨领域推荐技术综述](https://github.com/ZainZhao/eat-rec/blob/master/rec/paper/guide/%E8%B7%A8%E9%A2%86%E5%9F%9F%E6%8E%A8%E8%8D%90%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0.md) | 一般                                                         | 华东师范大学学报,2017.09 | ★★☆☆☆ |
 | [Deep Adversarial Social Recommendation](https://github.com/ZainZhao/eat-rec/blob/master/rec/paper/guide/Deep%20Adversarial%20Social%20Recommendation.md) | 使用 GAN 来加强两个域各自的表征，并提出一种 cycle 的方式来进行特征迁移，非常巧妙 | IJCAI,2019               | ★★★★☆ |
 | [CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks](https://github.com/ZainZhao/eat-rec/blob/master/rec/paper/CFGAN%20.pdf) | 提出一种 Vector-wise 和 masking 的方式来解决IRGAN中因出现矛盾标签而降低GAN性能的方法 | CIKM,2018                | ★★★★★ |
+| [CDAE: Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://github.com/ZainZhao/eat-rec/blob/master/rec/paper/CDAE.pdf) | 在输入层加上 user vector 的 DAE                              | WSDM,2019                | ★★★☆☆ |
 
 
 
@@ -56,10 +57,10 @@
 
 `主要用 xmind 整理，请clone到本地，用xmind软件打开`
 
-| 深度学习面经列表 |
-| ---------------- |
-| 激活函数         |
-| Gumbel-Softmax   |
+| 深度学习面经列表                                             |
+| ------------------------------------------------------------ |
+| [激活函数](https://github.com/ZainZhao/eat-rec/blob/master/deep%20learning/mind/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.xmind) |
+| [Gumbel-Softmax](https://github.com/ZainZhao/eat-rec/blob/master/deep%20learning/mind/Gumbel-Softmax.xmind) |
 
 
 
