@@ -22,7 +22,7 @@
 | [Deep Adversarial Social Recommendation](https://github.com/ZainZhao/eat-rec/blob/master/rec/paper/guide/Deep%20Adversarial%20Social%20Recommendation.md) | 使用 GAN 来加强两个域各自的表征，并提出一种 cycle 的方式来进行特征迁移，非常巧妙 | IJCAI,2019               | ★★★★☆ |
 | [CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks](https://github.com/ZainZhao/eat-rec/blob/master/rec/paper/CFGAN%20.pdf) | 提出一种 Vector-wise 和 masking 的方式来解决IRGAN中因出现矛盾标签而降低GAN性能的方法 | CIKM,2018                | ★★★★★ |
 | Generating Reliable Friends via Adversarial Training Improve Social Recommendation | 使用GAN来sampling reliable friends ,并使用BPR实现端对端的top-N推荐 | ICDM,2019                | ★★★★☆ |
-| [CDAE: Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://github.com/ZainZhao/eat-rec/blob/master/rec/paper/CDAE.pdf) | 在输入层加上 user vector 的 DAE                              | WSDM,2019                | ★★★☆☆ |
+| [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://github.com/ZainZhao/eat-rec/blob/master/rec/paper/CDAE.pdf) | 在输入层加上 user vector 的 DAE                              | WSDM,2019                | ★★★☆☆ |
 
 
 
