@@ -62,6 +62,8 @@
 | ------------------------------------------------------------ |
 | [激活函数](https://github.com/ZainZhao/eat-rec/blob/master/deep%20learning/mind/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.xmind) |
 | [Gumbel-Softmax](https://github.com/ZainZhao/eat-rec/blob/master/deep%20learning/mind/Gumbel-Softmax.xmind) |
+| 正则化、标准化、归一化                                       |
+| embedding                                                    |
 
 
 
