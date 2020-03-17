@@ -3,13 +3,11 @@
 
 数据科学（推荐系统、机器学习、深度学习、并行计算、数据挖掘）
 
-**Github 上不能正常显示 LaTex ，推荐 clone 到本地，使用 Typora 并开启LaTex进行阅读**
+`主要用 xmind 整理，请clone到本地，用xmind软件打开`
 
 持续更新中...
 
 ------------------------------
-
-
 
 
 
@@ -21,11 +19,11 @@
 
 ## **推荐系统面经**
 
-| 推荐系统面经 | 进度 |
-| ------------ | ---- |
-|              |      |
-|              |      |
-|              |      |
+| 推荐系统面经       |
+| ------------------ |
+| 推荐系统的评估指标 |
+|                    |
+|                    |
 
 ## 机器学习面经
 
@@ -39,14 +37,12 @@
 
 ## 深度学习面经
 
-`主要用 xmind 整理，请clone到本地，用xmind软件打开`
-
 | 深度学习面经列表                                             |
 | ------------------------------------------------------------ |
 | [激活函数](https://github.com/ZainZhao/eat-rec/blob/master/deep%20learning/mind/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.xmind) |
 | [Gumbel-Softmax](https://github.com/ZainZhao/eat-rec/blob/master/deep%20learning/mind/Gumbel-Softmax.xmind) |
 | 正则化、标准化、归一化                                       |
-| embedding                                                    |
+| Embedding                                                    |
 
 ## Rec system paper 
 
