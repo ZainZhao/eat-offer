@@ -17,7 +17,7 @@
 | ----------------------- |
 | [第一章 好的推荐系统]() |
 
-## **推荐系统面经**
+## **面经   推荐系统**
 
 | 推荐系统面经       |
 | ------------------ |
@@ -25,7 +25,7 @@
 |                    |
 |                    |
 
-## 机器学习面经
+## 面经   机器学习
 
 | 机器学习面经                                                 | 进度  |
 | ------------------------------------------------------------ | ----- |
@@ -33,9 +33,7 @@
 | [Naive Bayesian](https://github.com/ZainZhao/eat-rec/blob/master/machine%20learning/Naive%20Bayesian-Interview.md) | ★★★★☆ |
 | [Decision Tree](https://github.com/ZainZhao/eat-rec/blob/master/machine%20learning/Decision%20Tree-Interview.md) | ★★★☆☆ |
 
-
-
-## 深度学习面经
+## 面经   深度学习
 
 | 深度学习面经列表                                             |
 | ------------------------------------------------------------ |
