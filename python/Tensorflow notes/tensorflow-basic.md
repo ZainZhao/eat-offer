@@ -13,6 +13,12 @@
 -  tf.zeros_like()
 -  tf.ones_like()
 
+-  tf.fill()
+-  tf.random.normal()
+-  tf.random.uniform()
+-  tf.one_hot()
+-  tf.math.reduce()
+
   
 
   
