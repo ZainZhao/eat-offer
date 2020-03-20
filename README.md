@@ -11,19 +11,14 @@
 
 
 
-## 推荐系统笔记
-
-| 《推荐系统实践》        |
-| ----------------------- |
-| [第一章 好的推荐系统]() |
 
 ## **面经   推荐系统**
 
-| 推荐系统面经       |
-| ------------------ |
-| 推荐系统的评估指标 |
-|                    |
-|                    |
+| 推荐系统面经 |
+| ------------ |
+| 评估指标     |
+| 经典算法—BPR |
+|              |
 
 ## 面经   机器学习
 
@@ -41,6 +36,14 @@
 | [Gumbel-Softmax](https://github.com/ZainZhao/eat-rec/blob/master/deep%20learning/mind/Gumbel-Softmax.xmind) |
 | 正则化、标准化、归一化                                       |
 | Embedding                                                    |
+
+
+
+
+
+
+
+
 
 ## Rec system paper 
 
