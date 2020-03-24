@@ -43,3 +43,7 @@
 - @tf.Module.with_name_scope
 
 
+
+## 杂学 1.X
+
+tf.app.flags.DEFINE_float()
