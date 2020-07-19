@@ -1,0 +1,12 @@
+顺着这个进行加工    https://github.com/lijin-THU/notes-python
+   改为3.0
+    0102.add 解释型语言
+
+
+可参考：
+https://github.com/taizilongxu/interview_python
+https://www.liaoxuefeng.com/wiki/1016959663602400
+
+
+todo 
+python运行机制 
