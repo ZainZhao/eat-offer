@@ -1,4 +1,6 @@
-# eat-rec
+<center><font size = 6>eat-offer</font></center >
+
+
 个人笔记 + 面经
 
 专注于数据科学（推荐系统、机器学习、并行计算、后端）
