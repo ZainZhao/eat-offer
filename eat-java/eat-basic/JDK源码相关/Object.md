@@ -79,3 +79,48 @@
 - Object 中的 equals 与 == 是等价的
 - 重写的 equals 方法应该遵守 自反性、对称性、传递性、一致性 
 - 如果 equals 的语义在每个子类中有所改变，就使用`getClass`检测。如果所有子类都有统一的定义，那么使用`instanceof`
+
+**public final native Class<?>getClass()**
+
+- native 修饰的方法是由操作系统帮忙实现的
+- calss是类的一个属性，能获取该类编译时的类对象。没有多态的，是静态解析的，编译时可以确定类型信息。
+- getClass() 是一个类的方法，它获取该类的类对象。有多态能力，运行时可以返回子类的类型信息。
+- ` Class<?>` 这样也能编译通过 `Class<? extends String> c = "".getClass()`
+
+**public native inthashCode()**
+
+- 为避免hash冲突，也就是算法获得的元素要尽量均匀分布
+- JDK中许多包装类也重写了hashCode方法
+- 算法获得的元素应该尽量均匀分布
+- 为什么不直接通过hashCode产生唯一索引？
+  - 很难有这种算法
+  - 生成的hashCode非常大，可能会超出Java所能表示的范围
+
+- String 类的 hashCode
+
+  ```java
+  public int hashCode() {
+      int h = hash; // 默认值是0
+      if (h == 0 && value.length > 0) {
+          char val[] = value; // 字符串对应的char数组
+  
+          for (int i = 0; i < value.length; i++) {
+              h = 31 * h + val[i]; // val[0]*31^(n-1) + val[1]*31^(n-2) + ... + val[n-1]
+          }
+          hash = h;
+      }
+      return h;
+  }
+  ```
+
+- 对于需要大量并且快速的对比，如果都用equals()去实现显然效率太低，所以可以考虑先比较hashCode
+
+**toString()**
+
+- `getClass().getName() +"@"+ Integer.toHexString(hashCode())`
+
+**notify() notifyAll() wait()**
+
+**finalize()**
+
+**private static native void registerNatives()**
