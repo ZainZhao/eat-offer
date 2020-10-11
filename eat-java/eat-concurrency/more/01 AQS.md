@@ -129,3 +129,11 @@ public class Node{
 **公平锁与非公平锁**
 
 <img src="pic\cas 公平锁&amp;非公平锁.png" alt="cas 公平锁&amp;非公平锁" style="zoom: 80%;" />
+
+
+
+**公平锁加锁**
+
+<img src="pic\image-20201010105554309.png" alt="image-20201010105554309" style="zoom:80%;" />
+
+![公平锁 加锁](pic\公平锁 加锁.png)
